@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="100%" preserveAspectRatio="none" version="1.1" viewBox="0 0 100 100" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect height="100" id="path-1" width="100" x="0" y="0"></rect>
+    </defs>
+    <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+        <g>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect height="100" stroke="#000000" stroke-width="2" vector-effect="non-scaling-stroke" width="100" x="0" y="0"></rect>
+        </g>
+        <path d="M0,0 L100,100" id="Line" shape-rendering="geometricPrecision" stroke="#000000" stroke-linecap="square" stroke-width="1" vector-effect="non-scaling-stroke"></path>
+        <path d="M100,0 L0,100" id="Line-Copy" shape-rendering="geometricPrecision" stroke="#000000" stroke-linecap="square" stroke-width="1" vector-effect="non-scaling-stroke"></path>
+    </g>
+</svg>
